@@ -1,1 +1,1 @@
-# ejerciciospython
+# Python Projects Junior Developers
